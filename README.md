@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! I'm Caio.
+
+21 y.o. and a MSc student in AI and Data Science @ École Polytechnique.
+
+Here you will find some of my projects and things I'm learning about!
+
+---
+
+
 
 <!--
 **caiocj1/caiocj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
