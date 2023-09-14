@@ -1,6 +1,6 @@
 ### Hello! I'm Caio.
 
-22 y.o. and a MSc student in AI and Data Science @ École Polytechnique, France.
+23 y.o. and a MSc student in AI and Data Science @ École Polytechnique and PSL, France.
 
 Here you will find some of my projects and things I'm learning about!
 
