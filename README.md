@@ -1,6 +1,6 @@
 ### Hello! I'm Caio.
 
-PhD student in AI and Data Science @ École Polytechnique and PSL, France.
+PhD student in AI and Data Science @ École des Mines de Paris, France.
 
 Here you will find some of my projects and things I'm learning about!
 
